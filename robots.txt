@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://fazil561.github.io/MFN-Visual-Stories/sitemap.xml
+Sitemap: https://fazil561.github.io/MFN-Visual-Stories/sitemap-main.xml
